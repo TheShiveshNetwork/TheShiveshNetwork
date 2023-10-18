@@ -31,10 +31,7 @@ I am Shivesh a dedicated and enthusiastic Full Stack Developer with a lifelong p
 </div>
 
 ## :fire: My Stats :
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShiveshNetwork&theme=dark&background=000000" alt="github-streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShiveshNetwork&layout=compact&theme=vision-friendly-dark" alt="github-stats" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheShiveshNetwork&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShiveshNetwork&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
