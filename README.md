@@ -22,10 +22,19 @@ I am Shivesh a dedicated and enthusiastic Full Stack Developer with a lifelong p
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Badges
+## 🏅 Badges
 [![Have a look at @theshiveshnetwork's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshiveshnetwork)](https://holopin.io/@theshiveshnetwork)
 
-## :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheShiveshNetwork&theme=dark&background=000000)](https://git.io/streak-stats)
+## 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheShiveshNetwork&theme=dark_lover" alt="github-trophies" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShiveshNetwork&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+## :fire: My Stats :
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheShiveshNetwork&theme=dark&background=000000" alt="github-streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheShiveshNetwork&layout=compact&theme=vision-friendly-dark" alt="github-stats" />
+</div>
+
