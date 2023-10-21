@@ -3,6 +3,9 @@ I am Shivesh a dedicated and enthusiastic Full Stack Developer with a lifelong p
 
 * <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.gif" alt="🌍" width="28" height="28"></picture>  I'm based in India
 * <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="28" height="28"></picture>  I'm learning different languages and frameworks
+<br />
+<a href="https://www.buymeacoffee.com/mrdevknown404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
