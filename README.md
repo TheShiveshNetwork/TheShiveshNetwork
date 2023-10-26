@@ -7,7 +7,7 @@ I am Shivesh a dedicated and enthusiastic Full Stack Developer with a lifelong p
 <a href="https://www.buymeacoffee.com/mrdevknown404" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Typescript" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@ I am Shivesh a dedicated and enthusiastic Full Stack Developer with a lifelong p
   <img src="https://github-profile-trophy.vercel.app/?username=TheShiveshNetwork&theme=dark_lover" alt="github-trophies" />
 </div>
 
-## :fire: My Stats :
+## :fire: My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheShiveshNetwork&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShiveshNetwork&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
