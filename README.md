@@ -40,7 +40,7 @@ Here are a few languages and tools that I use:
 </div>
 
 ## :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=TheShiveshNetwork)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TheShiveshNetwork&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheShiveshNetwork&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
